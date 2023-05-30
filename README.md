@@ -62,7 +62,12 @@ OUTPUT:
 
 CLIENT:
 
+![cn-1c](https://github.com/Subalakshmisuresh/19CS406-EX-1/assets/121957896/711dc604-fa74-4336-a916-c0058ebea309)
+
 SERVER:
+
+![cn-1s](https://github.com/Subalakshmisuresh/19CS406-EX-1/assets/121957896/8cb91e72-70a7-4bb1-9c44-a57af56154ee)
+
 
 RESULT:
 
